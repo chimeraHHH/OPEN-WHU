@@ -22,7 +22,6 @@ Open Physics &amp; Electronics Nexus of Wuhan University 武汉大学物理科�
 - 选课攻略
 - 电子版教材
 - 平时作业答案
-- 历年试卷
 - 复习资料
 
 
@@ -46,7 +45,7 @@ Open Physics &amp; Electronics Nexus of Wuhan University 武汉大学物理科�
 
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
-来自大家的关注、维护和贡献，才是让这个浙江大学独有的攻略本继续存在的动力~
+来自大家的关注、维护和贡献，才是让这个攻略本继续存在的动力~
 
 **操作方法**
 
